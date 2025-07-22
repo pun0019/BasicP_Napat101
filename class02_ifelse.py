@@ -6,6 +6,7 @@
 #     print("Wrong")
 
 
+# WorkShop --1
 
 # way = int(input("Distance = "))
 
@@ -23,10 +24,11 @@
 #     print("45bath")
 
 
+# WorkShop --2
 
 way = int(input("Distance = "))
 
-if (way < 5):
+if   (way < 5):
     print("ไม่ส่ง")
 elif (way <= 50):
     print("10bath")
